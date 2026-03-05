@@ -1,0 +1,6 @@
+@VCWalks.API_HostAddress = http://localhost:5063
+
+GET {{VCWalks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
